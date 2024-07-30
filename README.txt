@@ -5,3 +5,5 @@ The project consists of four files, replicating the experiments discussed in Bre
 **rf_empirical_plots** works in tandem with **rf_empirical_results**. They are the implementation of Chapter 6 of the original paper. The former script selects and prepares the datasets, calls the functions defined in the latter file and plots the output. The latter file contains exclusively the definitions of the five required functions.
 
 Information about the implemented functions is extensively presented within the scripts.
+
+This project was realized in team with Giulio Leonardi.
